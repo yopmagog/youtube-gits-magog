@@ -1,0 +1,98 @@
+commit 7368d8031d8bef1396ad6176fb0b87150e98741e
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 20:54:22 2023 -0500
+
+    Agregando dos parrafos
+
+commit dd001f3fcbfff810113f2588075009a560444cbf
+Merge: 0d8b59d 925da1f
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 20:51:38 2023 -0500
+
+    Resolviendo conflicto en las estaciones del año con fecha de inicio
+
+commit 0d8b59d27d46a7223708c9bc4be8abc9bb6b4913
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 12:20:59 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 925da1fe3221ae91606e7a9bec9463e946242106
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 12:20:59 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 1262d0f695a37306410c815ec880d18cf3c59ff1
+Merge: d7b1e08 2ed31d3
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 12:15:53 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 2ed31d39b5476f8a4a2841f8254ee34757d58b95
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 12:09:55 2023 -0500
+
+    Agregando index.js al index html
+
+commit d7b1e080856a9115d57249f32213073247f152da
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 12:08:18 2023 -0500
+
+    Agregando sstyle.css al index.html
+
+commit 679b7d0189080049c1a4c768a7af72440371e1a6
+Merge: 7e1c562 b00dd64
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Tue Oct 31 11:33:28 2023 -0500
+
+    Merge branch 'js'
+
+commit b00dd64beb282ca796f632bcf822c58035c8dd39
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 23:39:54 2023 -0500
+
+    Creando index.js
+
+commit 7e1c562be4e7e02583ee3001c8a703f61c89c9c6
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 23:34:30 2023 -0500
+
+    Creando style.css
+
+commit c2c911cc947a0646fd9c439ccf3804a023d45dcf
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 23:27:46 2023 -0500
+
+    Creando Archivo index.html
+
+commit 2f536256096faf702ccbf996e7321bcad7d97573
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 17:14:54 2023 -0500
+
+    Ignorando archivos.exe
+
+commit 68bfc8bc2a88ee33a3d7f202ff44024bb6f7f4ba
+Author: ant2996 <147012129+ant2996@users.noreply.github.com>
+Date:   Mon Oct 30 15:55:12 2023 -0500
+
+    creando licencia del repositorio
+
+commit d47736e193ab1ff82c913472be0e7a7011e6d9c7
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 15:07:11 2023 -0500
+
+    Agregando mas contenido al README
+
+commit 5566297506d781cfbb2d05ca80671cec3efc7910
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 14:55:56 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 8082696c04a262e1fea4a19141e7e77473070c7c
+Author: ant2996 <antonioaltamirano.2696@gmail.com>
+Date:   Mon Oct 30 14:50:10 2023 -0500
+
+    primer commit
