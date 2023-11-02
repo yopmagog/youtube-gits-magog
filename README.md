@@ -2,6 +2,6 @@
 
 Hola soy tu amigo Uroboros
 
-Agregando mas contenido al _README_
+¿Quieres dominar el uso de _git_? mira ese video[enlace](https://jonmircha.com/git).
 
-Este commit es para oficializar nuestra version **1.0.0**
+![Flujo de Git](git-flow.png)
